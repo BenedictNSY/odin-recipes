@@ -1,0 +1,40 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight: 24px;
+    background-color: pink;
+    color: blue;
+}
+
+h2 {
+    font-weight: 22px;
+    background-color: violet;
+    color: gold;
+}
+
+ul,ol {
+    font-weight: 14px;
+}
+
+ul {
+    background-color: green;
+    color: black;
+    font-style: italic;
+}
+
+ol {
+    background-color: salmon;
+    color: white;
+    font-weight: bold;
+}
+
+img {
+    height: 250px;
+    weight: 300px;
+}
+
+span {
+    font-weight: bold;
+}
